@@ -23,7 +23,7 @@
     "text-encoding": "^0.7.0",
     "usb": "^2.12.0",
     "web-vitals": "^2.1.4",
-    "node-gyp": "^9.3.0",
+    "node-gyp": "^9.3.0"
   },
   "scripts": {
     "postinstall": "semantic-ui-css-patch",
